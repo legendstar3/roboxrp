@@ -1,0 +1,205 @@
+2026-02-28 01:48:25,938 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-02-28 01:48:25,942 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-02-28 01:48:25,943 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-02-28 01:48:25,956 - INFO - OKX API domain override active: eea.okx.com
+2026-02-28 01:48:27,210 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-02-28 01:48:27,365 - INFO - OKX ticker OK (BTC/USDC last=65835.8)
+2026-02-28 02:00:21,566 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-02-28 02:00:21,569 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-02-28 02:00:21,570 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-02-28 02:00:21,581 - INFO - OKX API domain override active: eea.okx.com
+2026-02-28 02:00:22,969 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-02-28 02:00:23,122 - INFO - OKX ticker OK (BTC/USDC last=65996.3)
+2026-02-28 02:01:20,314 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-02-28 02:01:20,317 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-02-28 02:01:20,318 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-02-28 02:01:20,329 - INFO - OKX API domain override active: eea.okx.com
+2026-02-28 02:01:21,522 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-02-28 02:01:21,672 - INFO - OKX ticker OK (BTC/USDC last=65996.3)
+2026-02-28 02:01:22,243 - INFO - Duplicate signal rejected: TESTUSDC already has an active trade
+2026-02-28 02:14:25,214 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-02-28 02:14:25,228 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-02-28 02:14:25,229 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-02-28 02:14:25,242 - INFO - OKX API domain override active: eea.okx.com
+2026-02-28 02:14:26,496 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-02-28 02:14:26,655 - INFO - OKX ticker OK (BTC/USDC last=65830.4)
+2026-02-28 02:27:39,128 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-02-28 02:27:39,131 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-02-28 02:27:39,132 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-02-28 02:27:39,155 - INFO - OKX API domain override active: eea.okx.com
+2026-02-28 02:27:40,522 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-02-28 02:27:40,680 - INFO - OKX ticker OK (BTC/USDC last=65964.8)
+2026-02-28 02:28:00,559 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-02-28 02:28:00,564 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-02-28 02:37:27,525 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-02-28 02:37:27,528 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-02-28 02:44:37,311 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-02-28 02:44:37,314 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-02-28 02:44:37,315 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-02-28 02:44:37,327 - INFO - OKX API domain override active: eea.okx.com
+2026-02-28 02:44:38,624 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-02-28 02:44:38,774 - INFO - OKX ticker OK (BTC/USDC last=65842.0)
+2026-02-28 02:47:44,580 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-02-28 02:47:44,584 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-02-28 02:57:54,916 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-02-28 02:57:54,919 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-02-28 02:57:54,919 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-02-28 02:57:54,928 - INFO - OKX API domain override active: eea.okx.com
+2026-02-28 02:57:56,168 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-02-28 02:57:56,318 - INFO - OKX ticker OK (BTC/USDC last=65794.7)
+2026-02-28 23:51:31,002 - INFO - Loaded .env from: C:\Users\User\Desktop\ROBOXRP\.env
+2026-02-28 23:51:31,010 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-02-28 23:51:31,010 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-02-28 23:51:31,034 - INFO - OKX API domain override active: eea.okx.com
+2026-02-28 23:51:32,274 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-02-28 23:51:32,432 - INFO - OKX ticker OK (BTC/EUR last=57333.3)
+2026-03-01 00:07:14,982 - INFO - Loaded .env from: C:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 00:07:14,985 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 00:07:14,986 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 00:07:14,997 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 00:07:16,202 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 00:07:16,359 - INFO - OKX ticker OK (BTC/EUR last=56923.8)
+2026-03-01 13:27:58,279 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 13:27:58,282 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 13:38:06,685 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 13:38:06,688 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 13:43:58,304 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 13:43:58,306 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 13:44:24,706 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 13:44:24,710 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 14:00:04,477 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 14:00:04,480 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 14:35:20,552 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 14:35:20,556 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 15:50:52,796 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 15:50:52,798 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 16:06:37,945 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 16:06:37,948 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 16:19:43,951 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 16:19:43,953 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 16:24:09,614 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 16:24:09,615 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 16:49:26,796 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 16:49:26,799 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 21:59:36,955 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 21:59:36,965 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 22:09:47,566 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 22:09:47,569 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 22:30:27,731 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 22:30:27,733 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 22:46:19,548 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 22:46:19,560 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 22:46:19,561 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 22:46:19,574 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 22:46:20,732 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 22:46:20,889 - INFO - OKX ticker OK (BTC/EUR last=55701.3)
+2026-03-01 22:47:00,789 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 22:47:00,796 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 22:47:00,796 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 22:47:00,814 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 22:47:01,891 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 22:47:02,059 - INFO - OKX ticker OK (BTC/EUR last=55701.3)
+2026-03-01 22:50:09,993 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 22:50:09,996 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 22:50:09,996 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 22:50:10,003 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 22:50:11,138 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 22:50:11,299 - INFO - OKX ticker OK (BTC/EUR last=55750.2)
+2026-03-01 22:53:16,957 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 22:53:16,960 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 22:53:16,961 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 22:53:16,971 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 22:53:18,212 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 22:53:18,372 - INFO - OKX ticker OK (BTC/EUR last=55792.2)
+2026-03-01 22:54:40,876 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 22:54:40,880 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 22:54:40,881 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 22:54:40,896 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 22:54:41,994 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 22:54:42,157 - INFO - OKX ticker OK (BTC/EUR last=55792.2)
+2026-03-01 22:57:34,036 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 22:57:34,039 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 22:57:34,039 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 22:57:34,049 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 22:57:35,174 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 22:57:35,336 - INFO - OKX ticker OK (BTC/EUR last=55806.4)
+2026-03-01 22:58:53,909 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 22:58:53,911 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 22:58:53,911 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 22:58:53,923 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 22:58:55,007 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 22:58:55,164 - INFO - OKX ticker OK (BTC/EUR last=55806.4)
+2026-03-01 23:03:35,530 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 23:03:35,532 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 23:03:35,533 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 23:03:35,540 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 23:03:36,743 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 23:03:36,903 - INFO - OKX ticker OK (BTC/EUR last=55790.4)
+2026-03-01 23:05:40,797 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 23:05:40,800 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 23:05:40,800 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 23:05:40,813 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 23:05:41,944 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 23:05:42,099 - INFO - OKX ticker OK (BTC/EUR last=55864.3)
+2026-03-01 23:07:41,067 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 23:07:41,070 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 23:07:41,070 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 23:07:41,082 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 23:07:42,308 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 23:07:42,472 - INFO - OKX ticker OK (BTC/EUR last=55828.3)
+2026-03-01 23:09:09,738 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 23:09:09,740 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 23:09:09,741 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 23:09:09,750 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 23:09:10,772 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 23:09:10,927 - INFO - OKX ticker OK (BTC/EUR last=55828.3)
+2026-03-01 23:11:43,453 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 23:11:43,455 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 23:11:43,455 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 23:11:43,463 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 23:11:44,621 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 23:11:44,775 - INFO - OKX ticker OK (BTC/EUR last=55751.9)
+2026-03-01 23:16:22,527 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 23:16:22,532 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 23:16:22,532 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 23:16:22,540 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 23:16:23,808 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 23:16:23,964 - INFO - OKX ticker OK (BTC/EUR last=56219.6)
+2026-03-01 23:18:58,410 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 23:18:58,412 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 23:18:58,412 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 23:18:58,422 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 23:18:59,510 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 23:18:59,686 - INFO - OKX ticker OK (BTC/EUR last=56253.3)
+2026-03-01 23:27:08,594 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 23:27:08,598 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 23:28:56,240 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 23:28:56,243 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 23:28:56,243 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 23:28:56,256 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 23:28:57,495 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 23:28:57,651 - INFO - OKX ticker OK (BTC/EUR last=55942.1)
+2026-03-01 23:40:54,841 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 23:40:54,846 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 23:40:54,848 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 23:40:54,862 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 23:40:56,135 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 23:40:56,293 - INFO - OKX ticker OK (BTC/EUR last=55521.3)
+2026-03-01 23:43:17,816 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 23:43:17,818 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 23:43:17,819 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 23:43:17,832 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 23:43:18,974 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 23:43:19,127 - WARNING - OKX ticker self-check failed: okx {"msg":"Too Many Requests","code":"50011"}
+2026-03-01 23:52:35,647 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 23:52:35,650 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 23:52:35,652 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 23:52:35,660 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 23:52:36,761 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 23:52:36,922 - INFO - OKX ticker OK (BTC/EUR last=55443.1)
+2026-03-01 23:59:31,954 - INFO - Loaded .env from: c:\Users\User\Desktop\ROBOXRP\.env
+2026-03-01 23:59:31,965 - INFO - OKX integration enabled (live_prices=True, trading=True)
+2026-03-01 23:59:31,965 - INFO - OKX credential fingerprint (apiKey_len=36, apiKey_last4=2bf1, apiSecret_len=32, passphrase_len=15)
+2026-03-01 23:59:31,976 - INFO - OKX API domain override active: eea.okx.com
+2026-03-01 23:59:33,397 - INFO - OKX client initialized (live_prices=True, trading=True)
+2026-03-01 23:59:33,560 - INFO - OKX ticker OK (BTC/EUR last=55448.2)

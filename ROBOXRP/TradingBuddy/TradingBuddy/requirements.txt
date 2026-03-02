@@ -1,0 +1,19 @@
+# ROBOXRP PRO v13.2 - Production Requirements
+# Only packages actually used by unified_trading_system_WORKING.py
+
+# Core
+requests>=2.31.0,<3.0
+python-dotenv>=1.0.0,<2.0
+
+# Data (numpy 2.x OK but pin major to avoid surprises)
+numpy>=1.24.0,<3.0
+
+# Exchange API (OKX via CCXT)
+ccxt>=4.0.0,<5.0
+
+# Web Dashboard
+Flask>=3.0.0,<4.0
+Flask-CORS>=4.0.0,<6.0
+
+# Console (Windows color support, optional but recommended)
+colorama>=0.4.6,<1.0
